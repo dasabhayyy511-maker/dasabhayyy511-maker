@@ -40,22 +40,59 @@ Mar 2026 – Present
 
 ## 🧠 Projects
 
-**🌐 Portfolio Website**  
-https://dasabhayyy511-maker.github.io/portfolio-/  
-- Responsive and modern UI design  
-- Showcases projects, skills, and experience  
+### 🔹 User Management System API  
+- RESTful API built using Node.js, Express, MongoDB, and Mongoose  
+- Supports full CRUD operations (Create, Read, Update, Delete users)  
+- Implements basic authentication for secure routes  
+- Tested using Postman for API validation  
 
-**📱 Mobile Web Applications (MWAD)**  
-- Authentication system  
-- Weight converter  
-- Interactive UI-based application  
-- Catalogue application  
+---
 
-**🧠 Smart Health Sleeve (Hackathon Project)**  
-- AI-based health monitoring system  
-- Real-time vitals tracking with doctor dashboard  
-- Emergency alert system with predictive insights  
+### 🔹 SpendWise — Expense Tracker  
+- Responsive React application for tracking expenses  
+- Uses React Hooks (useState, useEffect, useMemo, useCallback)  
+- Handles dynamic expense management and calculations  
+- Designed with focus on performance and clean UI  
 
+---
+
+### 🔹 FINITL — Landing Page  
+- Modern landing page for a productivity platform  
+- Built using HTML, CSS, and JavaScript  
+- Features smooth scrolling, responsive layout, and UI animations  
+- Includes hero section, feature cards, and call-to-action design  
+
+---
+
+### 🔹 Rabat Social — Social Media Platform (Concept)  
+- Full stack social media platform concept  
+- Built using HTML, CSS, JavaScript, Node.js, Express, MongoDB  
+- Includes feed, profile, and authentication pages  
+- Demonstrates full stack application structure  
+
+---
+
+### 🔹 Clasico Store — E-Commerce Website  
+- Full stack e-commerce application  
+- Features product listing, cart system, login/register, and checkout  
+- Backend built with Node.js, Express, MongoDB  
+- Stores users, products, and orders in database  
+
+---
+
+### 🔹 Meet The Cheese — Restaurant Website  
+- Responsive single-page restaurant website  
+- Includes menu highlights, animations, and branch information  
+- Designed with a dark premium UI style  
+- Built using HTML, CSS, JavaScript  
+
+---
+
+### 🔹 Mini CRM — Client Lead Management System  
+- Lead management system with admin dashboard  
+- Features lead capture, status tracking, and follow-up notes  
+- Implements authentication using sessions and bcrypt  
+- Backend with Node.js & Express, data stored in JSON  
 ---
 
 ## 🚀 Current Focus
