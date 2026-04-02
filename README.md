@@ -18,7 +18,7 @@
 - 🌱 Learning **Spring Boot & Advanced Backend Systems**
 - 👯 Looking to collaborate on **real-world projects**
 - 💬 Ask me about **Java, Web Dev, APIs**
-- ⚡ Fun fact: I love building ideas into real products  
+- ⚡ Fun fact: I love building ideas into real products
 
 ---
 
@@ -69,19 +69,15 @@
 ## 🧠 Projects
 
 ### 🌐 Portfolio Website  
-🔗 https://dasabhayyy511-maker.github.io/portfolio-/  
+🔗 [Visit Portfolio](https://dasabhayyy511-maker.github.io/portfolio-/)  
 - Responsive design  
 - Clean UI & modern layout  
-
----
 
 ### 📱 Mobile Web Apps (MWAD)
 - Authentication System  
 - Weight Converter  
 - Interactive UI App  
 - Catalogue App  
-
----
 
 ### 🧠 Smart Health Sleeve (Hackathon Project)
 - AI-based health monitoring system  
@@ -99,17 +95,32 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://github.com/dasabhayyy511-maker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" /></a>
+<a href="https://github.com/dasabhayyy511-maker" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhay-das-malikaveettil-0a6007332/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
+</a>
+
+<a href="mailto:dasabhayyy511@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" />
+</a>
+
+<a href="https://dasabhayyy511-maker.github.io/portfolio-/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
 ## 🚀 Goals
-- Become a **Software Engineer (Backend / Full Stack)**  
-- Build **scalable real-world applications**  
-- Contribute to **impactful tech projects**  
+- Become a **Software Engineer (Backend / Full Stack)**
+- Build **scalable real-world applications**
+- Contribute to **impactful tech projects**
 
 ---
 
